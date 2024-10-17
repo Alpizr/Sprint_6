@@ -19,7 +19,7 @@ diagram_checkbox = st.checkbox('Construir diagrama de dispersión')
 
 if diagram_checkbox:
     st.write("Diagrama de dispersión para el conjunto de datos de anuncios de venta de coches")
-    fig = px.scatter(car_data, x="odometer", y="prices") # crear un gráfico de dispersión
+    fig = px.scatter(car_data, x="odometer", y="price") # crear un gráfico de dispersión
 
 # mostrar un gráfico Plotly interactivos
     st.plotly_chart(fig, use_container_width=True)
