@@ -4,4 +4,4 @@ Sprint test
 La aplicación web nos permite tener una interfaz de usuario útil y funcional en un navegador
 
 El principal aporte de una aplicación web es la manera en que uno puede compartir sus resultados con otras personas, para que puedan 
-trabajar con ellos de un navegador
+trabajar con ellos en un navegador
